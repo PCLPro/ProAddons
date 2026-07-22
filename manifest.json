@@ -1,0 +1,29 @@
+{
+  "id": "com.github.com.pclpro.proaddons",
+  "name": "PCL Pro 扩展",
+  "author": {
+    "githubLogin": "PCLPro",
+    "displayName": "ProDev"
+  },
+  "description": "为 PCL Nex 复刻 PayCat 的主题系统、回声洞、千万别点、内存优化等功能扩展。",
+  "repository": "https://github.com/PCLPro/ProAddons",
+  "homepageUrl": "https://github.com/PCLPro/ProAddons",
+  "group": "Utilities",
+  "tags": [
+    "theme",
+    "utilities"
+  ],
+  "versions": [
+    {
+      "version": "0.2.3",
+      "pclCoreVersion": "2026.07.1",
+      "downloads": {
+        "anycpu": {
+          "packageUrl": "https://github.com/PCLPro/ProAddons/releases/download/v0.2.3/com.github.com.pclpro.proaddons.pclx",
+          "sha256": "23DE031EEFE71C1A1DBF1C0DF0978C26014A6161507DA7C1EAFE7D141514FEB4"
+        }
+      },
+      "releaseNotes": "https://github.com/PCLPro/ProAddons/releases/tag/v0.2.3"
+    }
+  ]
+}
