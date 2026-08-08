@@ -8,6 +8,7 @@
   "description": "为 PCL Nex 复刻 PayCat 的主题系统、回声洞、千万别点、内存优化等功能扩展。",
   "repository": "https://github.com/PCLPro/ProAddons",
   "homepageUrl": "https://github.com/PCLPro/ProAddons",
+  "group": "主题",
   "tags": [
     "theme",
     "utilities"
